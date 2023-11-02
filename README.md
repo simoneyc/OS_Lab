@@ -1,7 +1,7 @@
 # OS_Lab
 
 * lab1 - [Installing Linux](<http://example.com/>)
-* lab2 - [Shell Script](<http://example.com/>)
+* lab2 - [Shell Script](lab2)
 * lab3 - [Setuid](<http://example.com/>)
 * lab4 - [System Call](<http://example.com/>)
 * lab5 - [Kernel Module](<http://example.com/>)
