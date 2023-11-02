@@ -1,13 +1,12 @@
 # OS_Lab
 
-* lab1 -
-* lab2 -
-* lab3 -
-* lab4 -
-* lab5 -
-* lab6 -
-* lab7 -
-* lab8 -
-* lab9 -
-* lab10 -
-* lab11 -
+* lab1 - [Installing Linux](<http://example.com/>)
+* lab2 - [Shell Script](<http://example.com/>)
+* lab3 - [Setuid](<http://example.com/>)
+* lab4 - [System Call](<http://example.com/>)
+* lab5 - [Kernel Module](<http://example.com/>)
+* lab6 - [Process_Control](<http://example.com/>)
+* lab7 - [Message Queue and Shared Memory](<http://example.com/>)
+* lab8 - [Socket Programming with UDP](<http://example.com/>)
+* mid - [期中考](<http://example.com/>)
+
