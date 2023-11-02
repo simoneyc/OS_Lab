@@ -2,7 +2,7 @@
 
 * lab1 - [Installing Linux](<http://example.com/>)
 * lab2 - [Shell Script](lab2)
-* lab3 - [Setuid](<http://example.com/>)
+* lab3 - [Setuid](lab3)
 * lab4 - [System Call](<http://example.com/>)
 * lab5 - [Kernel Module](<http://example.com/>)
 * lab6 - [Process_Control](<http://example.com/>)
