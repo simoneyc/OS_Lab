@@ -1,6 +1,6 @@
 # OS_Lab
 
-* lab1 - [Installing Linux](<http://example.com/>)
+* lab1 - [Installing Linux](lab1)
 * lab2 - [Shell Script](lab2)
 * lab3 - [Setuid](lab3)
 * lab4 - [System Call](<http://example.com/>)
