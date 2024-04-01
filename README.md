@@ -24,3 +24,7 @@
 * lab15 - [Library](lab15)
 * lab16 - [Paging](lab16)
 * final - [期末考](final)
+
+For my hw saving, it may had referenced some open resources.
+
+Thank for the open resources on the Internet. :satisfied:
